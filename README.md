@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Surya R</h1>
 <h3 align="center">A Passionate Junior Backend Developer from India</h3>
 
-- 🌱 I’m currently learning **Front-end technologies (HTML5, CSS3 & JS)**
 - 👀 I’m interested in java web development
-- 🌱 I’m currently learning Full Stack Development
-- 💞️ I’m looking to collaborate on developing 
-- 📫 How to reach me 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning **Front-end technologies (HTML5, CSS3 & JS)**
+- 💞️ I’m looking to collaborate on developing web applications.
+- 📫 Email: srsurya5451@gmail.com
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/surya r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="surya r" height="30" width="40" /></a>
