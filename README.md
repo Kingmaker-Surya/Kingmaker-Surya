@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Surya R</h1>
-<h3 align="center">A Passionate Junior Backend Developer from India</h3>
+<h3 align="center">A Passionate Junior Java Backend Developer from India</h3>
 
 - 👀 I’m interested in java web development
 - 🌱 I’m currently learning **Front-end technologies (HTML5, CSS3 & JS)**
